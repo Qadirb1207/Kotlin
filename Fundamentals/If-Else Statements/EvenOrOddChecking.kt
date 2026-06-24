@@ -1,0 +1,9 @@
+fun main(){
+	var num : Int = 10
+	
+	if(num % 2 == 0){
+		println("Number is Even");
+	}else{
+		println("Number is Odd")
+	}
+}
