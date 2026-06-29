@@ -112,6 +112,12 @@ This repository is primarily for my personal learning journey, but suggestions a
 
 ---
 
-## 📄 License
+## ✍️ Author Details
 
-This repository is licensed under the MIT License.
+**Name:** 𝐐𝐚𝐝𝐢𝐫 𝐁𝐚𝐤𝐡𝐬𝐡
+
+**Email:** [Mail Qadir](qadirb3492@gmail.com)
+
+**LinkedIn Profile:** [Qadir Bakhsh on LinkedIn](https://www.linkedin.com/in/qadir-bakhsh)
+
+**GitHub Profile:** [Qadir on GitHub](https://www.github.com/Qadirb1207)
