@@ -37,8 +37,8 @@ fun main(){
 }
 ```
 
-**Difference between range and until:**  The key difference in range and until is that: In the range (..) the upper bound is included 
-(i.e if you use `num in 1..10` it means `1 <= num <= 10`), while in until the upper bound is excluded 
+**Difference between range and until:**  The key difference in range and until is that: In the range (..), the upper bound is included 
+(i.e if you use `num in 1..10` it means `1 <= num <= 10`), while in `until`, the upper bound is excluded 
 (i.e if you use `num in 1 until 10` it means `1 <= num < 10`).
 
 ## When statement
