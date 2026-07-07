@@ -71,10 +71,12 @@ _Output:_
 The `while` loop is used when we don't know the number of iterations like if a program says take input from the user until the user enters -1, here we don't know
 the exact number of iterations. Maybe, the user enters -1 after 2 iterations, or after 10 iterations or after 100 iterations. So the suitable loop for this purpose is not `for` loop. Here we will take a look at how we use `while` loop in Kotlin:
 
+***Note:***   `while` loop in kotlin is the same as in `Java`.
+
 ```kotlin
 fun main(){
-  var i = 0
-  while(i in 1..10){
+  var i = 1
+  while(i <= 10){
     println(i);
     i++
   }
@@ -94,3 +96,8 @@ _Output:_
 9
 10
 ```
+
+**Explanation:** The working of this loop is the same as that of `Java's while` loop. If you want to increase `i` by `2` instead of `1`, the `i++` statement 
+should be changed like this `i = i+2` or `i+=2`. That's it. Try it on your own. 
+
+**IF YOU KNOW THE JAVA'S DO-WHILE SAME GOES FOR THE ON IN KOTLIN NO SYNTAX CHANGES OR WHATEVER...**
