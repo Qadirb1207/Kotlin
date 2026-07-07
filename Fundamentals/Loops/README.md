@@ -7,7 +7,7 @@ This folder contains my Kotlin programs on loops created as a part of learning. 
 There are three types of loops in Kotlin which are:
 
 - `for` Loop
-- `while Loop
+- `while` Loop
 - `do-while` Loop
 
 Let's have a brief introduction to each of them.
@@ -66,4 +66,31 @@ _Output:_
 9
 ```
 
+## `while` loop
 
+The `while` loop is used when we don't know the number of iterations like if a program says take input from the user until the user enters -1, here we don't know
+the exact number of iterations. Maybe, the user enters -1 after 2 iterations, or after 10 iterations or after 100 iterations. So the suitable loop for this purpose is not `for` loop. Here we will take a look at how we use `while` loop in Kotlin:
+
+```kotlin
+fun main(){
+  var i = 0
+  while(i in 1..10){
+    println(i);
+    i++
+  }
+}
+```
+
+_Output:_
+```text
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
