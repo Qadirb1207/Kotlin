@@ -1,3 +1,3 @@
-# Kotlin OOP
+# OOP in Kotlin
 
-Here you will find the programs on Kotlin OOP
+Here you will find the programs on OOP in Kotlin
