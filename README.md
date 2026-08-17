@@ -96,8 +96,8 @@ Kotlin
 - [x] Range
 - [x] Until
 - [x] When
-- [ ] Loops
-- [ ] Functions
+- [x] Loops
+- [x] Functions
 - [ ] OOP
 - [ ] Collections
 - [ ] Exception Handling
